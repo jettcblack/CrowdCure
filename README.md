@@ -3,6 +3,9 @@
   <img src="logo.png"  width="600" height="600">
 </p>
 
+### Proposed App for UNM/CNM 2023-2024 App Contest 
+### By Jett Black (UNM) & Eden Tolesa (UNM)
+
 ## Disclaimer
 
 **Important:** Please read this disclaimer before using the CrowdCure healthcare app.
@@ -45,6 +48,15 @@ Welcome to CrowdCure, where individuals come together to make healthcare accessi
 
 Join CrowdCure today and be part of a community that believes in the power of collective support to transform healthcare experiences and revolutionize the way we access and receive care. Together, we can make a meaningful difference in the lives of those in need.
 
+## App Preview
+
+<div align="center">
+  <p float="left">
+    <img src="CrowdCure_Prototype/Welcome.jpeg" width="30%" />
+    <img src="CrowdCure_Prototype/Home.jpeg" width="30%" />
+    <img src="CrowdCure_Prototype/Payment.jpeg" width="30%" />
+  </p>
+</div>
 
 ## Audience
 
