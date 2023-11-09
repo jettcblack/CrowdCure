@@ -1,6 +1,6 @@
 # CrowdCure
 <p align="center">
-  <img src="logo.png"  width="600" height="600">
+  <img src="cc_logo.png"  width="600" height="600">
 </p>
 
 ### Proposed App for UNM/CNM 2023-2024 App Contest 
