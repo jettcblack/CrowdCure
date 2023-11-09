@@ -6,18 +6,6 @@
 ### Proposed App for UNM/CNM 2023-2024 App Contest 
 ### By Jett Black (UNM) & Eden Tolesa (UNM)
 
-## Disclaimer
-
-**Important:** Please read this disclaimer before using the CrowdCure healthcare app.
-
-**HIPAA Compliance:** This healthcare app complies with the Health Insurance Portability and Accountability Act (HIPAA) to safeguard the privacy and security of protected health information (PHI). Any unauthorized access, disclosure, or use of PHI is strictly prohibited and may result in legal penalties.
-
-**User Responsibility:** Users are reminded to exercise caution when sharing personal health information through this app. The app's developers and administrators are not responsible for any breach of privacy resulting from user actions or external factors beyond our control.
-
-**Security Measures:** While we have implemented robust security measures, no system is entirely foolproof. It is advised to keep your login credentials secure, log out after each session, and report any suspicious activity immediately.
-
-**Acknowledgment:** By using this app, you acknowledge and agree to abide by HIPAA regulations and the terms outlined in this disclaimer. Failure to do so may result in termination of your account and legal consequences.
-
 ## Description
 
 Welcome to CrowdCure, where individuals come together to make healthcare accessible and affordable for all. This innovative app empowers users to pool resources and support one another in times of medical need while also revolutionizing the healthcare industry. Here's what you can expect as a CrowdCure user:
@@ -47,6 +35,18 @@ Welcome to CrowdCure, where individuals come together to make healthcare accessi
 12. **Stay Informed:** Receive updates on campaign progress, new features, and important announcements through notifications, so you're always in the loop.
 
 Join CrowdCure today and be part of a community that believes in the power of collective support to transform healthcare experiences and revolutionize the way we access and receive care. Together, we can make a meaningful difference in the lives of those in need.
+
+## Disclaimer
+
+**Important:** Please read this disclaimer before using the CrowdCure healthcare app.
+
+**HIPAA Compliance:** This healthcare app complies with the Health Insurance Portability and Accountability Act (HIPAA) to safeguard the privacy and security of protected health information (PHI). Any unauthorized access, disclosure, or use of PHI is strictly prohibited and may result in legal penalties.
+
+**User Responsibility:** Users are reminded to exercise caution when sharing personal health information through this app. The app's developers and administrators are not responsible for any breach of privacy resulting from user actions or external factors beyond our control.
+
+**Security Measures:** While we have implemented robust security measures, no system is entirely foolproof. It is advised to keep your login credentials secure, log out after each session, and report any suspicious activity immediately.
+
+**Acknowledgment:** By using this app, you acknowledge and agree to abide by HIPAA regulations and the terms outlined in this disclaimer. Failure to do so may result in termination of your account and legal consequences.
 
 ## App Preview
 
