@@ -8,7 +8,7 @@
 
 ## Description
 
-Welcome to CrowdCure, where individuals come together to make healthcare accessible and affordable for all. This innovative app empowers users to pool resources and support one another in times of medical need while also revolutionizing the healthcare industry. Here's what you can expect as a CrowdCure user:
+Welcome to CrowdCure, where individuals come together to make healthcare accessible and affordable for all. This innovative app empowers users to pool resources and support one another in times of medical need while also revolutionizing the healthcare industry by decentralizing the infrastructure. Here's what you can expect as a CrowdCure user:
 
 1. **Income-Based Contributions:** CrowdCure offers a unique feature that allows users to contribute to campaigns based on their income level. This ensures that everyone can participate and contribute meaningfully, regardless of their financial situation.
 
@@ -16,11 +16,11 @@ Welcome to CrowdCure, where individuals come together to make healthcare accessi
 
 3. **Decentralizing Healthcare:** CrowdCure aims to decentralize healthcare by putting the power back into the hands of individuals.
 
-4. **Blockchain-Powered Trust:** Our use of blockchain technology ensures trustless and transparent transactions, eliminating the need for intermediaries and bureaucracy, and making healthcare more accessible and efficient.
+4. **Blockchain-Powered Trust:** Our use of blockchain technology ensures trustless and transparent transactions, eliminating the need for intermediaries and bureaucracy, and making healthcare more accessible and efficient. CrowdCare utilizes blockchain technology in order to provide transparency and security in managing contributions and claims. It also ensures a trustless system resistant to fraud and malicious centralized third-parties. Smart contracts play a crucial role in automating the insurance process. They can be programmed to execute specific actions when certain conditions are met, such as disbursing funds for medical expenses when a valid claim is submitted. 
 
 5. **No Pre-Existing Condition Questions:** At CrowdCure, we believe that everyone deserves access to healthcare support, regardless of their medical history. We do not ask about pre-existing conditions, ensuring that individuals can seek help without barriers.
 
-6. **Cash Out for Large Medical Needs:** As a registered user of CrowdCure, you have the option to cash out funds from your account when facing significant medical expenses. This feature provides much-needed financial assistance precisely when you need it the most.
+6. **Claims for Large Medical Needs:** As a registered user of CrowdCure, you have the option to claim funds from CrowdCure when facing significant medical expenses. This feature provides much-needed financial assistance precisely when you need it the most.
 
 7. **Secure and Private:** We prioritize the security and privacy of your personal information. CrowdCure is designed to comply with the highest industry standards, including HIPAA regulations and blockchain technology to ensure your data is protected and transactions are trustless.
 
@@ -28,11 +28,7 @@ Welcome to CrowdCure, where individuals come together to make healthcare accessi
 
 9. **Community Support:** CrowdCure is more than just a crowdfunding platform; it's a community of caring individuals. Connect with like-minded users, offer words of encouragement, and share experiences in our supportive community forum.
 
-10. **Spread the Word:** Easily share campaigns on social media and through messaging platforms to broaden the reach and impact of your cause. Every share can make a difference in reaching the funding goal.
-
-11. **Ease of Use:** Our user-friendly interface ensures that creating and managing campaigns, contributing, and navigating the app is intuitive and hassle-free.
-
-12. **Stay Informed:** Receive updates on campaign progress, new features, and important announcements through notifications, so you're always in the loop.
+10. **Ease of Use:** Our user-friendly interface ensures that creating and managing claims, contributing, and navigating the app is intuitive and hassle-free.
 
 Join CrowdCure today and be part of a community that believes in the power of collective support to transform healthcare experiences and revolutionize the way we access and receive care. Together, we can make a meaningful difference in the lives of those in need.
 
@@ -58,9 +54,40 @@ Join CrowdCure today and be part of a community that believes in the power of co
   </p>
 </div>
 
+## User Flow 
+
+**Welcome Screen**
+- Users are greeted with a welcome screen introducing CrowdCure's purpose and benefits.
+
+**Signup/Registration**
+- New users sign up by providing essential information, including personal details and income-related data.
+- Existing users log in securely.
+
+**User Profile**
+- Users set up and manage their profiles, including income verification, preferred payment methods, and personal details.
+
+**Home Page**
+- The central hub of the app, the home screen provides quick access to key features:
+  - **Pay Subscription Bill**
+    - Users can view their monthly contributions based on their income and make payments securely.
+  - **Make Claim**
+    - Users can submit healthcare-related claims with relevant details and supporting documents.
+  - **Check Claim Status**
+    - Users can track the status and progress of their submitted claims.
+  - **Community Engagement**
+    - Features for users to interact with the community, such as a news feed, discussion forums, or events related to healthcare and well-being.
+  - **Notifications**
+    - Keep users informed about important updates, reminders, and upcoming payment deadlines.
+
+**Settings**
+- Users access settings to update their personal information, notification preferences, and payment methods.
+
+**Help/Support**
+- Provide an easily accessible help or support center with FAQs, contact options, and resources for user assistance.
+
 ## Audience
 
-As of January 2022, there are currently 28 million uninsured Americans.
+As of January 2022, there are currently 28 million uninsured Americans (found by CDC https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202305_1.pdf). 
 
 CrowdCure is designed for a wide range of individuals who may find themselves in need of financial assistance for healthcare expenses. This includes, but is not limited to:
 
