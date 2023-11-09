@@ -6,6 +6,14 @@
 ### Proposed App for UNM/CNM 2023-2024 App Contest 
 ### By Jett Black (UNM) & Eden Tolesa (UNM)
 
+## Goal 
+
+Eden Tolesa and Jett Black have co-founded CrowdCure with a mission to decentralize and enhance accessibility within the healthcare industry. Our vision for CrowdCure is not to become an insurance behemoth but rather to establish an application that serves as a dependable resource for at-risk individuals who lack access to traditional health insurance.
+
+CrowdCure is designed to offer a subscription-based service, where users can contribute a monthly fee based on their income, providing them with the security and coverage they need without encountering the demanding benefit requirements of workplace insurance or facing financially burdensome premiums. Our focus is on addressing the nearly 200,000 uninsured residents in our home state of New Mexico (source: Kaiser Family Foundation).
+
+Through CrowdCure, we aspire to empower our fellow New Mexicans with the confidence and peace of mind they rightfully deserve. We are committed to making a positive impact on the lives of those who are most vulnerable in our community.
+
 ## Description
 
 Welcome to CrowdCure, where individuals come together to make healthcare accessible and affordable for all. This innovative app empowers users to pool resources and support one another in times of medical need while also revolutionizing the healthcare industry by decentralizing the infrastructure. Here's what you can expect as a CrowdCure user:
@@ -87,7 +95,7 @@ Join CrowdCure today and be part of a community that believes in the power of co
 
 ## Audience
 
-As of January 2022, there are currently 28 million uninsured Americans (found by CDC https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur202305_1.pdf). 
+As of January 2019, there are currently 188,416 uninsured New Mexicans (Soruce: Kaiser Family Foundation). 
 
 CrowdCure is designed for a wide range of individuals who may find themselves in need of financial assistance for healthcare expenses. This includes, but is not limited to:
 
