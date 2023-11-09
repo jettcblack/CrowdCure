@@ -86,13 +86,13 @@ By providing a platform that focuses on accessibility, transparency, and communi
 
 ### Eden Tolesa 
 
-Eden Tolesa, a senior at the University of New Mexico (UNM), is a passionate student majoring in Political Science and Business. Eden has held severeal positions throughout her undergraduate degree including, but not limited to: Public Affairs Manager for Piru Group, Intern positioning for the Division for Equity and Inclusion at UNM, and Student Senator for Associated Students at the University of New Mexico. 
+Eden Tolesa, a senior at the University of New Mexico, is a passionate student majoring in Political Science and Business. Eden has held severeal positions throughout her undergraduate degree including, but not limited to: Public Affairs Manager for Piru Group, Intern positioning for the Division for Equity and Inclusion at UNM, and Student Senator for Associated Students at the University of New Mexico. 
 
 Eden's dedication led to the successful completion of market research, data analysis, and overall practicality within CrowdCure.
 
 ### Jett Black 
 
-Jett Black, a senior at UNM, is a computer science student with research interests in decentralization and blockchain technology. Jett currently performs undergraduate research in the realm of threat detection and data visualization inside the Bitcoin network under professor Afsah Anwar, Ph.D. 
+Jett Black is a computer science undergraduate student at the University of New Mexico. Jett has a background in undergraduate research, recently performing research for the National Science Foundation in the field of blockchain technology. Overall, Jett holds research interests in the decentralization of commonly centralized technological features and blockchain technology as a whole. Jett currently performs undergraduate research in the realm of threat detection and data visualization inside the Bitcoin network under professor Afsah Anwar, Ph.D.
 
 Jett contributed to this project by spearheading UI/UX design while also developing, overseeing, and theorizing technical strategies and logistics within the application. 
 
